@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1,Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1,TV3
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHS4QSOECAPL5_UxxuCc-IrE)/dm/3/x6qp375/d/live-3.m3u8
+#EXTINF:-1,TV9
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUp-hy2f1v4X5YK8L7kDEwQ)/dm/3/x6qqja6/s/live-4.m3u8
+#EXTINF:-1,NTV7
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSo2s-d5bqYMMs8N3tRNDJw)/dm/3/x6qp6ou/s/live-4.m3u8
+#EXTINF:-1,Al Jazeera
+https://stream-01.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_Z-3tJND49JKKDFmZmRWsMw)/dm/3/x6rsa3u/s/live-2.m3u8
